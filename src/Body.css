@@ -1,0 +1,7 @@
+.body {
+	background-color: #d9cfcf;
+	background-image:url('./images/trafficcones.jpg');
+	min-height: 100vh;
+	min-width: 100%;
+}
+

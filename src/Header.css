@@ -1,8 +1,13 @@
 
 .App-header {
+    position: fixed;
     background-color: #282c34;
     background-image: url('./images/asphalt.jpg');
-    min-height: 10vh;
+    background-size:cover;
+    background-position: center;
+    height: 80px;
+    width: 100%;
+    left:150px;
     display: flex;
     flex-direction: column;
     align-items: center;

@@ -1,0 +1,20 @@
+.sidenav{
+	background-color: rgb(161, 146, 146);
+	opacity:0.9;
+	min-width: 151px;
+	position:fixed;
+	top:0;
+	bottom:0;
+}
+ul {
+	display:inline;
+	list-style: none;
+	}
+li {
+	min-height: 10vh;
+	color:rgb(16, 16, 16);
+	text-align: center;
+	margin-top: 3px;
+	margin-bottom: 3px;
+	text-decoration-line: underline;
+}

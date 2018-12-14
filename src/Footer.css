@@ -1,0 +1,12 @@
+.page-footer{
+	position:fixed;
+	bottom: 0;
+	background-color:rgb(237, 191, 98);
+	width:100%;
+	left:150px;
+	height:50px;
+	opacity: 0.8;
+    display: grid;
+	grid-template-rows: auto 1fr auto;
+	font-size:medium;
+}
